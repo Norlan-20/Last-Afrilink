@@ -1,0 +1,64 @@
+-------------------- Auto-Git Log --------------------
+		Mon Nov 01 2021 18:15:07 GMT+0100 (heure normale d’Europe centrale)
+------------------------------------------------------
+
+Modified files:
+* App.js
+* Store/Reducers/connexionReducer.js
+* package.json
+* screen/AuthChoice.js
+* screen/Connexion.js
+* screen/User.js
+* screen/createBoutique.js
+* screen/createBoutique1.js
+* yarn.lock
+
+
+Created files:
+* .autogit/logs/log-1-10-2021-12-50-47.txt
+* .autogit/logs/log-1-10-2021-13-21-19.txt
+* .autogit/logs/log-1-10-2021-13-51-59.txt
+* .autogit/logs/log-1-10-2021-14-22-16.txt
+* .autogit/logs/log-1-10-2021-15-27-33.txt
+* .autogit/logs/log-1-10-2021-16-35-7.txt
+* .autogit/logs/log-1-10-2021-17-11-18.txt
+* .autogit/logs/log-1-10-2021-17-43-22.txt
+* .history/App_20211101173701.js
+* .history/App_20211101173801.js
+* .history/App_20211101174028.js
+* .history/App_20211101174653.js
+* .history/App_20211101174703.js
+* .history/Store/Reducers/connexionReducer_20211101114206.js
+* .history/Store/Reducers/connexionReducer_20211101174047.js
+* .history/package_20211101121918.json
+* .history/package_20211101122647.json
+* .history/package_20211101145320.json
+* .history/screen/AuthChoice_20211101173431.js
+* .history/screen/AuthChoice_20211101173455.js
+* .history/screen/AuthChoice_20211101174442.js
+* .history/screen/AuthChoice_20211101174542.js
+* .history/screen/Connexion_20211101173003.js
+* .history/screen/Connexion_20211101174718.js
+* .history/screen/Connexion_20211101174906.js
+* .history/screen/Connexion_20211101174931.js
+* .history/screen/Connexion_20211101175116.js
+* .history/screen/Connexion_20211101175615.js
+* .history/screen/Connexion_20211101175641.js
+* .history/screen/Connexion_20211101175732.js
+* .history/screen/Connexion_20211101175845.js
+* .history/screen/Connexion_20211101175856.js
+* .history/screen/User_20211101173347.js
+* .history/screen/User_20211101174237.js
+* .history/screen/User_20211101174523.js
+* .history/screen/createBoutique1_20211101114206.js
+* .history/screen/createBoutique1_20211101145436.js
+* .history/screen/createBoutique_20211101114206.js
+* .history/screen/createBoutique_20211101145334.js
+* .history/screen/createBoutique_20211101145410.js
+
+
+Deleted files:
+* package-lock.json
+
+
+Renamed files:

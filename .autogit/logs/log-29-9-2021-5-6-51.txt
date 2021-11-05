@@ -1,0 +1,34 @@
+-------------------- Auto-Git Log --------------------
+		Fri Oct 29 2021 05:06:51 GMT+0200 (heure d’été d’Europe centrale)
+------------------------------------------------------
+
+Modified files:
+* App.js
+* screen/AuthChoice.js
+
+
+Created files:
+* .autogit/autogit.json
+* .autogit/logs/log-28-9-2021-18-41-1.txt
+* .autogit/logs/log-29-9-2021-4-35-17.txt
+* .history/App_20211029050405.js
+* .history/screen/AuthChoice_20211028180846.js
+* .history/screen/AuthChoice_20211029050530.js
+* .history/screen/Inscription_20211029042454.js
+* .history/screen/Inscription_20211029050020.js
+* .history/screen/Inscription_20211029050622.js
+* .history/screen/Inscription_20211029050648.js
+* .history/screen/Product_20211028181421.js
+* .history/screen/Product_20211028184924.js
+* .history/screen/Product_20211028190054.js
+* .history/screen/Product_20211028190429.js
+* .history/screen/Product_20211029041901.js
+* .history/screen/Product_20211029042400.js
+* screen/Inscription.js
+* screen/Product.js
+
+
+Deleted files:
+
+
+Renamed files:

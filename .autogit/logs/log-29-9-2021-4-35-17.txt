@@ -1,0 +1,25 @@
+-------------------- Auto-Git Log --------------------
+		Fri Oct 29 2021 04:35:17 GMT+0200 (heure d’été d’Europe centrale)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/autogit.json
+* .autogit/logs/log-28-9-2021-18-41-1.txt
+* .history/screen/Inscription_20211029042454.js
+* .history/screen/Product_20211028181421.js
+* .history/screen/Product_20211028184924.js
+* .history/screen/Product_20211028190054.js
+* .history/screen/Product_20211028190429.js
+* .history/screen/Product_20211029041901.js
+* .history/screen/Product_20211029042400.js
+* screen/Inscription.js
+* screen/Product.js
+
+
+Deleted files:
+
+
+Renamed files:

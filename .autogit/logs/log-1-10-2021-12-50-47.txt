@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+		Mon Nov 01 2021 12:50:47 GMT+0100 (heure normale d’Europe centrale)
+------------------------------------------------------
+
+Modified files:
+* package.json
+* yarn.lock
+
+
+Created files:
+* .history/package_20211101121918.json
+* .history/package_20211101122647.json
+
+
+Deleted files:
+* package-lock.json
+
+
+Renamed files:

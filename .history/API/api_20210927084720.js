@@ -1,0 +1,20 @@
+/* eslint-disable prettier/prettier */
+// API list
+
+
+const url = 'https://afrilink.herokuapp.com';
+
+// Retrieve list of categorie
+
+export const listOfCategories = () => {
+    return fetch(`${url}/product`,{
+        method: 'GET',
+        headers:{
+            Accept:'application/json',
+            'Content-type': 'application/json',
+        },
+    })
+    .then((response) => console.log(response.json()))
+    .then(res => console.log(res))
+    .catch((error)=> console.log('error'));
+};
